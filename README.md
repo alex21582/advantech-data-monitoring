@@ -62,7 +62,7 @@ docker swarm init
 ## Clone this repository
 
 ```
-git clone https://github.com/Miceuz/docker-compose-mosquitto-influxdb-telegraf-grafana.git
+git clone https://github.com/alex21582/advantech-data-monitoring.git
 cd docker-compose-mosquitto-influxdb-telegraf-grafana
 ```
 
