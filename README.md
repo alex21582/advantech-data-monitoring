@@ -63,7 +63,7 @@ docker swarm init
 
 ```
 git clone https://github.com/alex21582/advantech-data-monitoring.git
-cd docker-compose-mosquitto-influxdb-telegraf-grafana
+cd advantech-data-monitoring
 ```
 
 ## Create files with passwords and token
